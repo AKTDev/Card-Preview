@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7e6fe2</color>
+    <color name="colorPrimaryDark">#8a53cf</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTransparent">#00ffffff</color>
+    <color name="colorStart">#cb5ed9</color>
+    <color name="colorEnd">#8463d4</color>
+
+    <color name="colorFont">#97aa43</color>
+
+    <color name="colorTextGray">#a9a9a9</color>
+    <color name="colorCircleBorder">#e3e3e3</color>
+    <color name="colorCircleBlue">#1e7dd3</color>
+    <color name="colorCircleYellow">#d3b529</color>
+    <color name="colorButtonBackground">#0e1822</color>
+    <color name="colorProductStateBackground">#f1f3f6</color>
+</resources>
